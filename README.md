@@ -4,6 +4,6 @@
 - 💞️ I've worked on projects involving data in cybersecurity and aircraft construction
 - 🐸 My 2 best friends: Python & SQL (sorry bash!)
 - 💾 I mostly work with Windows & Linux
-- 🛠️ Tools I use: Excel, MySQL, PowerBI, Neo4j, MongoDB
+- 🛠️ Tools I use: Excel, MySQL, Jupyter, PowerBI, Neo4j, MongoDB
 - 📫 To reach me: Linkedin
 - ⚡ Fun fact: I love Breathing & climbing trees.
