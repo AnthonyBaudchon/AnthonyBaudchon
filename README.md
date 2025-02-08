@@ -3,7 +3,8 @@
 - 🌱 I’m currently evolving as a Data Analyst in the Aircraft industry
 - 💞️ I've worked on projects involving data in cybersecurity and aircraft construction
 - 🐸 My 2 best friends: Python & SQL (sorry bash!)
-- 💾 I mostly work with Windows & Linux
+- 💾 OS: Windows & Linux
+- 🖼️ IDE I work on: PyCharm, VSCode
 - 🛠️ Tools I use: Excel, MySQL, Jupyter, PowerBI, Neo4j, MongoDB
 - 📫 To reach me: Linkedin
 - ⚡ Fun fact: I love Breathing & climbing trees.
