@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AnthonyBaudchon
 - 👀 I’m curious about Data Analytics, Optimization, Prediction & Automation
-- 🌱 I’m currently evolving as a Data Analyst in the Aircraft industry
+- 🌱 Since 2024 I’m evolving as a Data Analyst in the Aircraft industry
 - 💞️ I've worked on projects involving data in cybersecurity and aircraft construction
 - 🐸 My 2 best friends: Python & SQL (sorry bash!)
 - 💾 OS: Windows & Linux
 - 🖼️ IDE I work on: PyCharm, VSCode
 - 🛠️ Tools I use: Excel, MySQL, Jupyter, PowerBI, Neo4j, MongoDB
 - 📫 To reach me: Linkedin
-- ⚡ Fun fact: I love Breathing & climbing trees.
+- ⚡ Fun fact: I love Breathing, Art & climbing trees.
