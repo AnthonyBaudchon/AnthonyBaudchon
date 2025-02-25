@@ -6,5 +6,5 @@
 - 💾 OS: Windows & Linux
 - 🖼️ IDE I work on: PyCharm, VSCode
 - 🛠️ Tools I use: Excel, MySQL, Jupyter, PowerBI, Neo4j, MongoDB
-- 📫 To reach me: Linkedin
-- ⚡ Fun fact: I love Breathing, Art & climbing trees.
+- 📫 To reach me: https://www.linkedin.com/in/anthonybaudchon/
+- ⚡ Fun fact: I love Breathing, Movement Culture, Art & climbing trees.
