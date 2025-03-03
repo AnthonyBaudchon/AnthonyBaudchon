@@ -5,6 +5,6 @@
 - 🐸 My 2 best friends: Python & SQL (sorry bash!)
 - 💾 OS: Windows & Linux
 - 🖼️ IDE I work on: PyCharm, VSCode
-- 🛠️ Tools I use: Excel, MySQL, Jupyter, PowerBI, Neo4j, MongoDB
+- 🛠️ Tools I use: Excel, MySQL, SSMS & SSIS, Jupyter, PowerBI, Neo4j, MongoDB, Talend
 - 📫 To reach me: https://www.linkedin.com/in/anthonybaudchon/
 - ⚡ Fun fact: I love Breathing, Movement Culture, Art & climbing trees.
