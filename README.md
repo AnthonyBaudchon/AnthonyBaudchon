@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @AnthonyBaudchon
-- 👀 I’m curious about Data Analytics, Optimization, Prediction & Automation
-- 🌱 Since 2024 I’m evolving as a Data Analyst in the Aircraft industry
+- 👀 I’m curious about Data & Analytical Engineering
+- 🌱 Since 2024 I’m evolving as a Analytical Engineer in the Aircraft industry
 - 💞️ I've worked on projects involving data in cybersecurity and aircraft construction
 - 🐸 My 2 best friends: Python & SQL (sorry bash!)
 - 💾 OS: Windows & Linux
 - 🖼️ IDE I work on: PyCharm, VSCode
-- 🛠️ Tools I use: Excel, MySQL, SSMS & SSIS, Jupyter, Neo4j, MongoDB, Talend, PowerBI
+- 📊 Tools I use: Excel, MySQL, SSMS & SSIS, Jupyter, Neo4j, MongoDB, Talend, PowerBI
+- 🛠️ Tools I learn: Spark, Databricks, Airflow, DBT, AWS
 - 📫 To reach me: https://www.linkedin.com/in/anthonybaudchon/
 - ⚡ Fun fact: I love Breathing, Movement Culture, Art & climbing trees.
