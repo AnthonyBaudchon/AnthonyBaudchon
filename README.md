@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyBaudchon
 - 👀 I’m curious about Data Architecture & Analytical Engineering
-- 🌱 Since 2024 I’m evolving as a Analytical Engineer in the Aircraft industry
+- 🌱 Since 2024 I’m evolving as a Analytical Engineer in the Aircraft industry at Airbus
 - 💞️ I've worked on projects involving data in Cybersecurity, Retail and Aircraft construction
 - 🐸 My 2 best friends: Python & SQL (sorry bash!)
 - 💾 OS: Windows & Linux
