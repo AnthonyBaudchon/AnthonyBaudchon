@@ -6,6 +6,6 @@
 - 💾 OS: Windows & Linux
 - 🖼️ IDE: PyCharm, VSCode
 - 📊 Tools I use: MySQL, SSMS & SSIS, Jupyter, Neo4j, MongoDB, Talend, PowerBI
-- 🛠️ Tools I'm learning: Spark, Databricks, Airflow, DBT, BigQuery
+- 🛠️ More Tools: Spark, Databricks, Airflow, DBT, BigQuery
 - 📫 To reach me: https://www.linkedin.com/in/anthonybaudchon/
 - ⚡ Fun fact: I love Breathing, Movement Culture, Art & climbing trees.
