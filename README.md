@@ -5,7 +5,7 @@
 - 🐸 My 2 best friends: Python & SQL (sorry bash!)
 - 💾 OS: Windows & Linux
 - 🖼️ IDE: PyCharm, VSCode
-- 📊 Tools I use: MySQL, SSMS & SSIS, Jupyter, Neo4j, MongoDB, Talend, PowerBI
-- 🛠️ More Tools: Spark, Databricks, Airflow, DBT, BigQuery
+- 📊 Tools I use: MySQL, SSMS & SSIS, Jupyter, Neo4j, MongoDB, Talend, PowerBI, Spark, Databricks, Airflow
+- 🛠️ Tools I am learning: DBT, BigQuery, AWS
 - 📫 To reach me: https://www.linkedin.com/in/anthonybaudchon/
 - ⚡ Fun fact: I love Breathing, Movement Culture, Art & climbing trees.
