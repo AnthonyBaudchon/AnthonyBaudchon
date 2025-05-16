@@ -8,4 +8,4 @@
 - 📊 Tools I use: MySQL, SSMS & SSIS, Jupyter, Neo4j, MongoDB, Talend, PowerBI, Spark, Databricks, Airflow
 - 🛠️ Tools I am learning: DBT, BigQuery, AWS
 - 📫 To reach me: https://www.linkedin.com/in/anthonybaudchon/
-- ⚡ Fun fact: I love Breathing, Movement Culture, Art & climbing trees.
+- ⚡ Fun fact: I love Breathing, Movement Culture, Art & climbing trees
